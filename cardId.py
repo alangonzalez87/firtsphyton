@@ -6,7 +6,7 @@ job=input('Job title:')
 id=input('id Number:')
 phone=input('Phone Number:')
 print("complete aditional information")
-age=input ('what is your age?')
+age=int(input ('what is your age?'))
 sex= input ('your sex is?')
 
 print('\n---------------------')
